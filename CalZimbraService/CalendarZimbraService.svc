@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="CalZimbraService.Service1" CodeBehind="CalendarZimbraService.svc.vb" %>
